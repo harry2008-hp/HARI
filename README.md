@@ -1,4 +1,4 @@
-# HARI
+#HARI
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Hari%20Prasath&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20ECE%20Engineer%20%7C%20IoT%20Builder%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=60&descSize=17" />
 
 <div align="center">
@@ -21,57 +21,44 @@
 
 ## 👨‍🎓 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### 🙋‍♂️ Hi, I'm Hari Prasath!
-> *"Build. Break. Learn. Repeat."* ⚡
-
-I'm an **18-year-old ECE student** at Sri Ramakrishna Institute of Technology, Coimbatore — passionate about bridging the gap between hardware and software. I love tinkering with circuits, building IoT devices, and pushing boundaries with embedded systems.
-
-When I'm not coding or designing circuits, I'm probably throwing punches on the karate mat 🥋 or sculpting 3D models in Blender.
-
----
-
-**📍 Location** &nbsp; Coimbatore, Tamil Nadu, India  
-**🎓 Degree** &nbsp; B.E. Electronics & Communication Engineering  
-**🏫 College** &nbsp; Sri Ramakrishna Institute of Technology  
-**🗓️ Batch** &nbsp; 2025 – Present  
-**📞 Phone** &nbsp; +91 93600 40422  
-**🌐 Languages** &nbsp; Tamil · English · Telugu  
-
----
-
-**🔭 Currently working on** → IoT & Embedded Systems projects  
-**🌱 Learning** → VLSI Design · Communication Systems · RTOS  
-**🤝 Open to** → Internships · Collaborations · Tech Events  
-**⚡ Fun fact** → Green Belt in Karate & 6x MATLAB certified!  
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" alt="Tech Animation" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=38BDAE&center=true&vCenter=true&width=700&lines=📍+Coimbatore%2C+Tamil+Nadu+🇮🇳;🎓+B.E.+ECE+%40+Sri+Ramakrishna+Institute+of+Technology;🔌+Embedded+Systems+%7C+🌐+IoT+%7C+🎨+3D+Design;🥋+Green+Belt+Karateka+%7C+6×+MATLAB+Certified;🤝+Open+to+Internships+%26+Collaborations" />
+</div>
 
 <br/>
 
-![Visitors](https://img.shields.io/badge/🎯%20Goal-ECE%20Engineer-70a5fd?style=flat-square&labelColor=0d1117)
-![Age](https://img.shields.io/badge/🎂%20Age-18-bf91f3?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/📚%20Status-Undergraduate-38bdae?style=flat-square&labelColor=0d1117)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harry2008-hp&theme=tokyonight" width="95%" />
+</div>
 
 <br/>
 
-```
-🔌  Embedded Systems
-🌐  IoT Development
-🎨  3D Modelling
-🥋  Karate (Green Belt)
-🎓  6× MATLAB Certified
-```
+> 💬 *"Build. Break. Learn. Repeat."* — **Hari Prasath**
 
-</td>
-</tr>
-</table>
+I'm an **18-year-old ECE student** at Sri Ramakrishna Institute of Technology, Coimbatore, passionate about bridging hardware and software. I love tinkering with circuits, building IoT devices, and exploring embedded systems.
+
+When I'm not at my desk, I'm on the karate mat 🥋 or sculpting 3D models in Blender.
+
+<br/>
+
+<div align="center">
+
+| 🔭 Working on | 🌱 Learning | 🤝 Open to | ⚡ Fun Fact |
+|:---:|:---:|:---:|:---:|
+| IoT & Embedded Projects | VLSI · RTOS · Comm. Systems | Internships & Collabs | Green Belt 🥋 + 6× MATLAB 📜 |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Location](https://img.shields.io/badge/📍_Location-Coimbatore,_TN-70a5fd?style=for-the-badge&labelColor=0d1117)
+![Degree](https://img.shields.io/badge/🎓_Degree-B.E._ECE-bf91f3?style=for-the-badge&labelColor=0d1117)
+![Age](https://img.shields.io/badge/🎂_Age-18_years-38bdae?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/📚_Status-Undergraduate-f7768e?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
