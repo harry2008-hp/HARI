@@ -19,43 +19,59 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍🎓 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```c
-// hari_prasath.c  —  v18.04.2008
+### 🙋‍♂️ Hi, I'm Hari Prasath!
+> *"Build. Break. Learn. Repeat."* ⚡
 
-#include <stdio.h>
+I'm an **18-year-old ECE student** at Sri Ramakrishna Institute of Technology, Coimbatore — passionate about bridging the gap between hardware and software. I love tinkering with circuits, building IoT devices, and pushing boundaries with embedded systems.
 
-int main() {
+When I'm not coding or designing circuits, I'm probably throwing punches on the karate mat 🥋 or sculpting 3D models in Blender.
 
-  char* name      = "Hari Prasath";
-  char* location  = "Coimbatore, Tamil Nadu 🇮🇳";
-  char* degree    = "B.E. ECE @ SRIT (2025-Present)";
+---
 
-  char* stack[]   = { "C / C++", "Arduino",
-                      "TinkerCad", "Blender 3D",
-                      "IoT Dev Kits", NULL };
+**📍 Location** &nbsp; Coimbatore, Tamil Nadu, India  
+**🎓 Degree** &nbsp; B.E. Electronics & Communication Engineering  
+**🏫 College** &nbsp; Sri Ramakrishna Institute of Technology  
+**🗓️ Batch** &nbsp; 2025 – Present  
+**📞 Phone** &nbsp; +91 93600 40422  
+**🌐 Languages** &nbsp; Tamil · English · Telugu  
 
-  char* learning[]= { "Embedded Systems",
-                      "VLSI Design",
-                      "IoT Architecture", NULL };
+---
 
-  char* fun_fact  = "Green Belt in Karate 🥋";
-  char* motto     = "Build. Break. Learn. Repeat. ⚡";
+**🔭 Currently working on** → IoT & Embedded Systems projects  
+**🌱 Learning** → VLSI Design · Communication Systems · RTOS  
+**🤝 Open to** → Internships · Collaborations · Tech Events  
+**⚡ Fun fact** → Green Belt in Karate & 6x MATLAB certified!  
 
-  printf("👋  Hi, I'm %s\n",      name);
-  printf("📍  Based in %s\n",     location);
-  printf("🎓  Studying: %s\n",    degree);
-  printf("💡  Motto: %s\n",       motto);
-  printf("⚡  Fun fact: %s\n",    fun_fact);
+</td>
+<td valign="top" width="45%" align="center">
 
-  return 0;
-}
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" alt="Tech Animation" />
+
+<br/>
+
+![Visitors](https://img.shields.io/badge/🎯%20Goal-ECE%20Engineer-70a5fd?style=flat-square&labelColor=0d1117)
+![Age](https://img.shields.io/badge/🎂%20Age-18-bf91f3?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/📚%20Status-Undergraduate-38bdae?style=flat-square&labelColor=0d1117)
+
+<br/>
+
+```
+🔌  Embedded Systems
+🌐  IoT Development
+🎨  3D Modelling
+🥋  Karate (Green Belt)
+🎓  6× MATLAB Certified
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
