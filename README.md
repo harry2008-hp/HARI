@@ -1,4 +1,3 @@
-#HARI
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Hari%20Prasath&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20ECE%20Engineer%20%7C%20IoT%20Builder%20%7C%20Embedded%20Systems%20Enthusiast&descAlignY=60&descSize=17" />
 
 <div align="center">
@@ -252,3 +251,4 @@ When I'm not at my desk, I'm on the karate mat 🥋 or sculpting 3D models in Bl
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:bf91f3,100:38bdae&height=130&section=footer&animation=twinkling" width="100%" />
 
 </div>
+
